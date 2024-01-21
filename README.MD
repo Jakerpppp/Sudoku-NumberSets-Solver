@@ -22,8 +22,7 @@ This C++ project provides a solver for the 9x9 NumberSets puzzle, a challenging 
 
 ## NumberSets Puzzle
 
-- The puzzle consists of a 9x9 grid divided into 3x3 subgrids.
-- The goal is to fill in the grid with numbers from 1 to 9, ensuring that each row, column, and subgrid contains unique numbers
+Rows and columns are divided into compartments. A compartment is a series of uninterrupted white cells. Each compartment needs to be filled with an unordered but uninterrupted set of numbers (1-9). Compartments do not necessarily need to continue each other's numbers. Numbers within a compartment can appear in any order. No single number can repeat in any row or column (irrespective of compartments).
 
 ## Testing
 
