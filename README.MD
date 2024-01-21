@@ -4,7 +4,7 @@ Welcome to the 9x9 Sudoku NumberSets Solver implemented in C++!
 
 ## Overview
 
-This C++ project provides a solver for the 9x9 NumberSets puzzle, a challenging variation of Sudoku. The solver is designed to efficiently find solutions for 9x9 grids with added complexity, making it nearly instantaneous for all examples including extra difficulty boards.
+This C++ project provides a solver for the 9x9 NumberSets puzzle, a challenging variation of Sudoku. The solver is designed to efficiently find solutions for 9x9 grids with added complexity, making it nearly instantaneous for all examples including extra difficulty boards. Implmented using efficient Backtracking algorithms.
 
 ## Features
 
